@@ -25,8 +25,8 @@ My name is Alexey, I am an aspiring QA Engineer, a positive thinking person, str
 
 ### Testing Documentation
 
-- [Checklists]()
+- [Checklists](./assets/Чек%20лист.xlsx)
 - [Test-Suites and Test-Cases]()
-- [Bug-Reports]()
-- [SQL Queries]()
-- [Postman Collections]()
+- [Bug-Reports](./assets/Bug%20report.xlsx)
+
+
