@@ -30,3 +30,4 @@ Salute👋 My name is Alexey, I am an aspiring QA Engineer, a positive thinking 
 - [Bug-Reports](./assets/Bug%20report.xlsx)
 
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ZhikharevAL&layout=compact&theme=dark)
