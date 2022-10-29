@@ -26,7 +26,7 @@ Salute👋 My name is Alexey, I am an aspiring QA Engineer, a positive thinking 
 ### Testing Documentation
 
 - [Checklists](./assets/Чек%20лист.xlsx)
-- [Test-Suites and Test-Cases]()
+- [Test-Suites and Test-Cases](./assets/Test_Case%20us.puma.com.xlsx)
 - [Bug-Reports](./assets/Bug%20report.xlsx)
 
 
