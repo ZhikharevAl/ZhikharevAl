@@ -4,12 +4,8 @@
 [![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/1cylon1)
 [![OpenSea](https://img.shields.io/badge/OpenSea-%232081E2.svg?style=for-the-badge&logo=opensea&logoColor=white)](https://opensea.io/WaltaFunk)
 
-Salute👋 My name is Alexey, I am an aspiring QA Engineer, a positive thinking person, straightforward, clear and accurate. I possess the following traits:
-- Critical Thinking. Thinking clearly and rationally to understand the logical connection of multiple ideas and their impact on the business and client.
-- Communication is clear and concise.
-- Collaboration.
-- Creativity. Creativity and out-of-the-box thinking is a skill that often leads us to identify those few undesirable extremes that can greatly affect the entire product.
-- Coding is a skill that allows you to express and articulate business rules and easily model your field.
+Salute👋 My name is Alexey.  
+A beginner QA Engineer with a critical thinking ability, capable of logically analyzing multiple ideas and their impact on business and clients. Have clear and concise communication skills and the ability to collaborate effectively. Possess creativity and out-of-the-box thinking, which helps identify undesirable edge cases and prevent their impact on the product. Proficient in coding, enabling the expression of business rules and modeling of one's domain.
 
 ## My CV:
 [Link to my CV](https://resume.io/r/WC2jMOmYm)
