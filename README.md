@@ -27,7 +27,7 @@ A beginner QA Engineer with a critical thinking ability, capable of logically an
 
 
 
-#👩‍💻 IDE:
+## 💻 IDE:
 
 ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white)
 ![](https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
