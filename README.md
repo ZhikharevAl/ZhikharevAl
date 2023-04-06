@@ -9,6 +9,8 @@ A beginner QA Engineer with a critical thinking ability, capable of logically an
 
 ## My CV:
 [Link to my CV](https://resume.io/r/WC2jMOmYm)
+
+[PDF](./assets/cv.pdf)
 ## Skills:
 ![](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
 ![](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
