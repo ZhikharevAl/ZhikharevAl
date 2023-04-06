@@ -36,4 +36,4 @@ A beginner QA Engineer with a critical thinking ability, capable of logically an
 
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ZhikharevAL&layout=compact&theme=dark)
+# [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ZhikharevAL&hide_progress=true&layout=compact&theme=dark)](https://github.com/ZhikharevAL/github-readme-stats)
