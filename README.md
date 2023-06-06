@@ -44,10 +44,8 @@ If you are seeking a tester who can bring automation and enhance trust in your p
 
 
 
-# 
-! [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ZhikharevAL&hide_progress=true&layout=compact&theme=dark)](https://github.com/ZhikharevAL/github-readme-stats)
+# ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ZhikharevAl&layout=compact&bg_color=000000&text_color=FFFFFF)
 
-![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=ZhikharevAL&theme=nord)
 
 
 ![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=ZhikharevAL&style=flat&color=red)
