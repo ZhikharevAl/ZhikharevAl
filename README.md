@@ -14,10 +14,12 @@ Tester focused on test automation and continuous improvement of product quality.
 
 If you are seeking a tester who can bring automation and enhance trust in your project, feel free to contact me!
 
-## My CV:
-[Link to my CV](https://resume.io/r/WC2jMOmYm)
+[//]: # (## My CV:)
 
-[PDF](./assets/cv.pdf)
+[//]: # ([Link to my CV]&#40;https://resume.io/r/WC2jMOmYm&#41;)
+
+[//]: # ()
+[//]: # ([PDF]&#40;./assets/cv.pdf&#41;)
 ## Skills:
 ![](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
 ![](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
