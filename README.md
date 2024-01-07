@@ -1,7 +1,6 @@
 [![Alexey's GitHub Banner](./assets/1500x500.jpg)]()
 [![Telegram Badge](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white )](https://t.me/Alexey_Zhikharev)
 [![Mail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://waltafunk@gmail.com)
-[![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/1cylon1)
 [![OpenSea](https://img.shields.io/badge/OpenSea-%232081E2.svg?style=for-the-badge&logo=opensea&logoColor=white)](https://opensea.io/WaltaFunk)
 
 ### Test automation, quality enhancement, and product trust.
