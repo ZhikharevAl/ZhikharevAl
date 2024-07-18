@@ -34,6 +34,10 @@ If you are seeking a tester who can bring automation and enhance trust in your p
   [<img src="icons/linux/linux-original.svg" alt="Linux" width="50" height="50">](https://ubuntu.com/)
   [<img src="icons/markdown/markdown-original.svg" alt="Markdown" width="50" height="50">](https://www.markdownguide.org/basic-syntax/)
   [<img src="icons/postman/postman-original-wordmark.svg" alt="Postman" width="50" height="50">](https://www.postman.com/)
+  [<img src="icons/codecov/codecov-plain.svg" alt="Codecov" width="50" height="50">](https://about.codecov.io/)
+  [<img src="icons/Git/git-original-wordmark.svg" alt="Git" width="50" height="50">](https://git-scm.com/)
+  [<img src="icons/github-actions/githubactions-original.svg" alt="Github-actions" width="50" height="50">](https://docs.github.com/en/actions)
+  [<img src="icons/yaml/yaml-original.svg" alt="Github-actions" width="50" height="50">](https://yaml.org/)
 
 </div>
 
