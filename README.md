@@ -25,11 +25,18 @@ If you are seeking a tester who can bring automation and enhance trust in your p
   <img src="icons/python/python-original-wordmark.svg" alt="Python" width="50" height="50">
   <img src="icons/pytest/pytest-original-wordmark.svg" alt="Pytest" width="50" height="50">
   <img src="icons/playwright/playwright-original.svg" alt="Playwright" width="50" height="50">
-  <img src="icons/selenium/selenium-original.svg" alt="Playwright" width="50" height="50">
+  <img src="icons/selenium/selenium-original.svg" alt="Selenium" width="50" height="50">
+  <img src="icons/allure/Allure_Report.svg" alt="Allure-Report" width="50" height="50">
+  <img src="icons/docker/docker-original-wordmark.svg" alt="Docker" width="50" height="50">
+  <img src="icons/github/ad574c14aa17a899fd3abbf3cbbec62f.png" alt="GitHub" width="50" height="50">
+  <img src="icons/Go/go-line.svg" alt="Go-line" width="50" height="50">
+  <img src="icons/Go/go-original-wordmark.svg" alt="Go-line" width="50" height="50">
+  <img src="icons/linux/linux-original.svg" alt="Linux" width="50" height="50">
+  <img src="icons/markdown/markdown-original.svg" alt="Markdown" width="50" height="50">
 
 </div>
 
-![](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
+<!-- ![](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
 ![](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white)
@@ -41,7 +48,7 @@ If you are seeking a tester who can bring automation and enhance trust in your p
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
-![Golang](https://img.shields.io/badge/golang-%23000000.svg?style=for-the-badge&logo=golang&logoColor=blue)
+![Golang](https://img.shields.io/badge/golang-%23000000.svg?style=for-the-badge&logo=golang&logoColor=blue) -->
 <!--![](https://img.shields.io/badge/gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white) -->
 <!--![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white) -->
 
