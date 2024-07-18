@@ -21,7 +21,11 @@ If you are seeking a tester who can bring automation and enhance trust in your p
 [//]: # ([PDF]&#40;./assets/cv.pdf&#41;)
 ## Languages and Tools:
 <div>
+    
+  <img src="icons/python/python-original-wordmark.svg" alt="Python" width="50" height="50">
+  <img src="icons/pytest/pytest-original-wordmark.svg" alt="Pytest" width="50" height="50">
   <img src="icons/playwright/playwright-original.svg" alt="Playwright" width="50" height="50">
+  <img src="icons/selenium/selenium-original.svg" alt="Playwright" width="50" height="50">
 
 </div>
 
