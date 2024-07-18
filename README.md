@@ -22,17 +22,18 @@ If you are seeking a tester who can bring automation and enhance trust in your p
 ## Languages and Tools:
 <div>
     
-  <img src="icons/python/python-original-wordmark.svg" alt="Python" width="50" height="50">
-  <img src="icons/pytest/pytest-original-wordmark.svg" alt="Pytest" width="50" height="50">
-  <img src="icons/playwright/playwright-original.svg" alt="Playwright" width="50" height="50">
-  <img src="icons/selenium/selenium-original.svg" alt="Selenium" width="50" height="50">
-  <img src="icons/allure/Allure_Report.svg" alt="Allure-Report" width="50" height="50">
-  <img src="icons/docker/docker-original-wordmark.svg" alt="Docker" width="50" height="50">
-  <img src="icons/github/ad574c14aa17a899fd3abbf3cbbec62f.png" alt="GitHub" width="50" height="50">
-  <img src="icons/Go/go-line.svg" alt="Go-line" width="50" height="50">
-  <img src="icons/Go/go-original-wordmark.svg" alt="Go-line" width="50" height="50">
-  <img src="icons/linux/linux-original.svg" alt="Linux" width="50" height="50">
-  <img src="icons/markdown/markdown-original.svg" alt="Markdown" width="50" height="50">
+  [<img src="icons/python/python-original-wordmark.svg" alt="Python" width="50" height="50">](https://www.python.org/)
+  [<img src="icons/pytest/pytest-original-wordmark.svg" alt="Pytest" width="50" height="50">](https://docs.pytest.org/en/stable/index.html)
+  [<img src="icons/playwright/playwright-original.svg" alt="Playwright" width="50" height="50">](https://playwright.dev/python/)
+  [<img src="icons/selenium/selenium-original.svg" alt="Selenium" width="50" height="50">](https://www.selenium.dev/)
+  [<img src="icons/allure/Allure_Report.svg" alt="Allure-Report" width="50" height="50">](https://allurereport.org/)
+  [<img src="icons/docker/docker-original-wordmark.svg" alt="Docker" width="50" height="50">](https://www.docker.com/)
+  [<img src="icons/github/ad574c14aa17a899fd3abbf3cbbec62f.png" alt="GitHub" width="50" height="50">](https://github.com/)
+  [<img src="icons/Go/go-line.svg" alt="Go-line" width="50" height="50">](https://go.dev/)
+  [<img src="icons/Go/go-original-wordmark.svg" alt="Go-line" width="50" height="50">](https://go.dev/)
+  [<img src="icons/linux/linux-original.svg" alt="Linux" width="50" height="50">](https://ubuntu.com/)
+  [<img src="icons/markdown/markdown-original.svg" alt="Markdown" width="50" height="50">](https://www.markdownguide.org/basic-syntax/)
+  [<img src="icons/postman/postman-original-wordmark.svg" alt="Postman" width="50" height="50">](https://www.postman.com/)
 
 </div>
 
