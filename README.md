@@ -5,9 +5,9 @@
 
 ### Test automation, quality enhancement, and product trust.
 
-> "Testing is the art of finding defects that nobody else can see and recognizing them when everyone else ignores them." - Michael Bolton
+> "Testing is the art of finding defects that nobody else can see and recognizing them when everyone else ignores them."
 
-> "Testing is like throwing knives in the dark. Proper testing is when you don't hit yourself." - Luke Lumberg
+> "Testing is like throwing knives in the dark. Proper testing is when you don't hit yourself."
 
 Tester focused on test automation and continuous improvement of product quality. Striving to identify issues and find solutions to achieve a reliable and flawless user experience.
 
@@ -19,7 +19,12 @@ If you are seeking a tester who can bring automation and enhance trust in your p
 
 [//]: # ()
 [//]: # ([PDF]&#40;./assets/cv.pdf&#41;)
-## Skills:
+## Languages and Tools:
+<div>
+  <img src="icons/playwright/playwright-original.svg" alt="Playwright" width="50" height="50">
+
+</div>
+
 ![](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
 ![](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
@@ -37,15 +42,18 @@ If you are seeking a tester who can bring automation and enhance trust in your p
 <!--![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white) -->
 
 
-## 💻 IDE:
+<!-- ## 💻 IDE:
 
 
 ![](https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=red)
 ![](https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=green)
 ![](https://img.shields.io/badge/Visual%20Studio%20Code-000000.svg?style=for-the-badge&logo=visual-studio-code&logoColor=blue)
-![](https://img.shields.io/badge/Golang-000000.svg?style=for-the-badge&logo=golang&logoColor=blue)
+![](https://img.shields.io/badge/Golang-000000.svg?style=for-the-badge&logo=golang&logoColor=blue) -->
 
-# ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ZhikharevAl&layout=compact&bg_color=000000&text_color=FFFFFF)
+## My Stats:
+[![GitHub Streak](https://streak-stats.demolab.com/?user=ZhikharevAl&theme=shadow-purple)](https://git.io/streak-stats)
+
+## ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ZhikharevAl&layout=compact&bg_color=000000&text_color=FFFFFF)
 
 
 
