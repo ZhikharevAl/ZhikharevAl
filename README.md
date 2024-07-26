@@ -43,6 +43,8 @@ If you are seeking a tester who can bring automation and enhance trust in your p
 
 </div>
 
+## <img src="icons/algoritms/thealgorithms.svg" alt="Algoritms" width="40" height="40"> Algorithms [LeetCode](https://leetcode.com/u/waltafunk/)
+
 <!-- ![](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
 ![](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
