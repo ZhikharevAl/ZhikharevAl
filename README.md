@@ -78,3 +78,6 @@ If you are seeking a tester who can bring automation and enhance trust in your p
 ![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=ZhikharevAL&style=flat&color=red)
 
 
+<p align="center">
+ <img width="1000" src="assets/github-snake.svg" alt="snake"/>
+</p>
