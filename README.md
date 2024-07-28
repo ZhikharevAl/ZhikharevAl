@@ -32,28 +32,45 @@ If you are seeking a tester who can bring automation and enhance trust in your p
 
   **In Progress**
 
-| Go      | Kotlin   |
-| ------- |  ------- |
-| [<img src="icons/Go/go-original-wordmark.svg" alt="Go-line" width="50" height="50">](https://go.dev/) | [<img src="icons/Kotlin/Kotlin-Dark.svg" alt="Kotlin" width="50" height="50">](https://kotlinlang.org/)
+| Go                                                                                                    | Kotlin                                                                                                  |
+|-------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------|
+| [<img src="icons/Go/go-original-wordmark.svg" alt="Go-line" width="50" height="50">](https://go.dev/) | [<img src="icons/Kotlin/Kotlin-Dark.svg" alt="Kotlin" width="50" height="50">](https://kotlinlang.org/) |
 
 ### Testing Frameworks
 
+| Allure                                                                                                             |                                                           Playwright                                                           | Pytest                                                                                                                                    | Selenium                                                                                                            |
+|--------------------------------------------------------------------------------------------------------------------|:------------------------------------------------------------------------------------------------------------------------------:|-------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------|
+| [<img src="icons/allure/Allure_Report.svg" alt="Allure-Report" width="50" height="50">](https://allurereport.org/) | [<img src="icons/playwright/playwright-original.svg" alt="Playwright" width="50" height="50">](https://playwright.dev/python/) | [<img src="icons/pytest/pytest-original-wordmark.svg" alt="Pytest" width="50" height="50">](https://docs.pytest.org/en/stable/index.html) | [<img src="icons/selenium/selenium-original.svg" alt="Selenium" width="50" height="50">](https://www.selenium.dev/) |
 
-  [<img src="icons/pytest/pytest-original-wordmark.svg" alt="Pytest" width="50" height="50">](https://docs.pytest.org/en/stable/index.html)
-  [<img src="icons/playwright/playwright-original.svg" alt="Playwright" width="50" height="50">](https://playwright.dev/python/)
-  [<img src="icons/selenium/selenium-original.svg" alt="Selenium" width="50" height="50">](https://www.selenium.dev/)
-  [<img src="icons/allure/Allure_Report.svg" alt="Allure-Report" width="50" height="50">](https://allurereport.org/)
-  [<img src="icons/docker/docker-original-wordmark.svg" alt="Docker" width="50" height="50">](https://www.docker.com/)
-  [<img src="icons/github/ad574c14aa17a899fd3abbf3cbbec62f.png" alt="GitHub" width="50" height="50">](https://github.com/)
-  [<img src="icons/linux/linux-original.svg" alt="Linux" width="50" height="50">](https://ubuntu.com/)
-  [<img src="icons/markdown/markdown-original.svg" alt="Markdown" width="50" height="50">](https://www.markdownguide.org/basic-syntax/)
-  [<img src="icons/postman/postman-original-wordmark.svg" alt="Postman" width="50" height="50">](https://www.postman.com/)
-  [<img src="icons/jupiter/jupyter-original-wordmark.svg" alt="Jupiter" width="50" height="50">](https://jupyter.org/)
-  [<img src="icons/codecov/codecov-plain.svg" alt="Codecov" width="50" height="50">](https://about.codecov.io/)
-  [<img src="icons/Git/git-original-wordmark.svg" alt="Git" width="50" height="50">](https://git-scm.com/)
-  [<img src="icons/github-actions/githubactions-original.svg" alt="Github-actions" width="50" height="50">](https://docs.github.com/en/actions)
-  [<img src="icons/sqlite/sqlite-original-wordmark.svg" alt="sqlite" width="50" height="50">](https://www.sqlite.org/)
-  [<img src="icons/yaml/yaml-original.svg" alt="YAML" width="50" height="50">](https://yaml.org/)
+
+### Development Tools
+
+| Codecov                                                                                                       | Docker                                                                                                               |                                                   Jupyter Notebook                                                   | Github                                                                                                                   | Linux                                                                                                | Markdown                                                                                                                              | Postman                                                                                                                  |
+|---------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------|:--------------------------------------------------------------------------------------------------------------------:|--------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------|
+| [<img src="icons/codecov/codecov-plain.svg" alt="Codecov" width="50" height="50">](https://about.codecov.io/) | [<img src="icons/docker/docker-original-wordmark.svg" alt="Docker" width="50" height="50">](https://www.docker.com/) | [<img src="icons/jupiter/jupyter-original-wordmark.svg" alt="Jupiter" width="50" height="50">](https://jupyter.org/) | [<img src="icons/github/ad574c14aa17a899fd3abbf3cbbec62f.png" alt="GitHub" width="50" height="50">](https://github.com/) | [<img src="icons/linux/linux-original.svg" alt="Linux" width="50" height="50">](https://ubuntu.com/) | [<img src="icons/markdown/markdown-original.svg" alt="Markdown" width="50" height="50">](https://www.markdownguide.org/basic-syntax/) | [<img src="icons/postman/postman-original-wordmark.svg" alt="Postman" width="50" height="50">](https://www.postman.com/) |
+
+ 
+### Version Control
+
+| Git                                                                                                      |                                                                Github Actions                                                                 |
+|----------------------------------------------------------------------------------------------------------|:---------------------------------------------------------------------------------------------------------------------------------------------:|
+| [<img src="icons/Git/git-original-wordmark.svg" alt="Git" width="50" height="50">](https://git-scm.com/) | [<img src="icons/github-actions/githubactions-original.svg" alt="Github-actions" width="50" height="50">](https://docs.github.com/en/actions) |
+
+
+### Databases
+  
+| SQLite                                                                                                               |
+|----------------------------------------------------------------------------------------------------------------------|
+| [<img src="icons/sqlite/sqlite-original-wordmark.svg" alt="sqlite" width="50" height="50">](https://www.sqlite.org/) |
+
+### Configuration
+
+| YAML                                                                                            |
+|-------------------------------------------------------------------------------------------------|
+| [<img src="icons/yaml/yaml-original.svg" alt="YAML" width="50" height="50">](https://yaml.org/) |
+
+  
+
 
 </div>
 
