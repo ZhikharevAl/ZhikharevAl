@@ -3,7 +3,7 @@
 [![Mail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://waltafunk@gmail.com)
 [![OpenSea](https://img.shields.io/badge/OpenSea-%232081E2.svg?style=for-the-badge&logo=opensea&logoColor=white)](https://opensea.io/WaltaFunk)
 
-### Test automation, quality enhancement, and product trust.
+### Test automation, quality enhancement, and product trust
 
 > "Testing is the art of finding defects that nobody else can see and recognizing them when everyone else ignores them."
 
@@ -19,18 +19,32 @@ If you are seeking a tester who can bring automation and enhance trust in your p
 
 [//]: # ()
 [//]: # ([PDF]&#40;./assets/cv.pdf&#41;)
-## Languages and Tools:
+
+## Languages and Tools
+
 <div>
-    
-  [<img src="icons/python/python-original-wordmark.svg" alt="Python" width="50" height="50">](https://www.python.org/)
+
+### Programming Language
+
+| Python3                                                                                                              |
+|----------------------------------------------------------------------------------------------------------------------|
+| [<img src="icons/python/python-original-wordmark.svg" alt="Python" width="50" height="50">](https://www.python.org/) |
+
+  **In Progress**
+
+| Go      | Kotlin   |
+| ------- |  ------- |
+| [<img src="icons/Go/go-original-wordmark.svg" alt="Go-line" width="50" height="50">](https://go.dev/) | [<img src="icons/Kotlin/Kotlin-Dark.svg" alt="Kotlin" width="50" height="50">](https://kotlinlang.org/)
+
+### Testing Frameworks
+
+
   [<img src="icons/pytest/pytest-original-wordmark.svg" alt="Pytest" width="50" height="50">](https://docs.pytest.org/en/stable/index.html)
   [<img src="icons/playwright/playwright-original.svg" alt="Playwright" width="50" height="50">](https://playwright.dev/python/)
   [<img src="icons/selenium/selenium-original.svg" alt="Selenium" width="50" height="50">](https://www.selenium.dev/)
   [<img src="icons/allure/Allure_Report.svg" alt="Allure-Report" width="50" height="50">](https://allurereport.org/)
   [<img src="icons/docker/docker-original-wordmark.svg" alt="Docker" width="50" height="50">](https://www.docker.com/)
   [<img src="icons/github/ad574c14aa17a899fd3abbf3cbbec62f.png" alt="GitHub" width="50" height="50">](https://github.com/)
-  [<img src="icons/Go/go-line.svg" alt="Go-line" width="50" height="50">](https://go.dev/)
-  [<img src="icons/Go/go-original-wordmark.svg" alt="Go-line" width="50" height="50">](https://go.dev/)
   [<img src="icons/linux/linux-original.svg" alt="Linux" width="50" height="50">](https://ubuntu.com/)
   [<img src="icons/markdown/markdown-original.svg" alt="Markdown" width="50" height="50">](https://www.markdownguide.org/basic-syntax/)
   [<img src="icons/postman/postman-original-wordmark.svg" alt="Postman" width="50" height="50">](https://www.postman.com/)
@@ -61,24 +75,20 @@ If you are seeking a tester who can bring automation and enhance trust in your p
 <!--![](https://img.shields.io/badge/gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white) -->
 <!--![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white) -->
 
-
 <!-- ## 💻 IDE:
-
 
 ![](https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=red)
 ![](https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=green)
 ![](https://img.shields.io/badge/Visual%20Studio%20Code-000000.svg?style=for-the-badge&logo=visual-studio-code&logoColor=blue)
 ![](https://img.shields.io/badge/Golang-000000.svg?style=for-the-badge&logo=golang&logoColor=blue) -->
 
-## My Stats:
+## My Stats
+
 [![GitHub Streak](https://streak-stats.demolab.com/?user=ZhikharevAl&theme=shadow-purple)](https://git.io/streak-stats)
 
 ## ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ZhikharevAl&layout=compact&bg_color=000000&text_color=FFFFFF)
 
-
-
 ![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=ZhikharevAL&style=flat&color=red)
-
 
 <p align="center">
  <img width="1000" src="assets/github-snake.svg" alt="snake"/>
