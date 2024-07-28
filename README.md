@@ -49,30 +49,36 @@ If you are seeking a tester who can bring automation and enhance trust in your p
 |---------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------|:--------------------------------------------------------------------------------------------------------------------:|--------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------|
 | [<img src="icons/codecov/codecov-plain.svg" alt="Codecov" width="50" height="50">](https://about.codecov.io/) | [<img src="icons/docker/docker-original-wordmark.svg" alt="Docker" width="50" height="50">](https://www.docker.com/) | [<img src="icons/jupiter/jupyter-original-wordmark.svg" alt="Jupiter" width="50" height="50">](https://jupyter.org/) | [<img src="icons/github/ad574c14aa17a899fd3abbf3cbbec62f.png" alt="GitHub" width="50" height="50">](https://github.com/) | [<img src="icons/linux/linux-original.svg" alt="Linux" width="50" height="50">](https://ubuntu.com/) | [<img src="icons/markdown/markdown-original.svg" alt="Markdown" width="50" height="50">](https://www.markdownguide.org/basic-syntax/) | [<img src="icons/postman/postman-original-wordmark.svg" alt="Postman" width="50" height="50">](https://www.postman.com/) |
 
- 
+<table style="width:100%; text-align:center; border-collapse: collapse;">
+<tr>
+<td style="width:50%; vertical-align:top; padding:10px;">
+
 ### Version Control
 
-| Git                                                                                                      |                                                                Github Actions                                                                 |
-|----------------------------------------------------------------------------------------------------------|:---------------------------------------------------------------------------------------------------------------------------------------------:|
+|                                                   Git                                                    |                                                                Github Actions                                                                 |
+|:--------------------------------------------------------------------------------------------------------:|:---------------------------------------------------------------------------------------------------------------------------------------------:|
 | [<img src="icons/Git/git-original-wordmark.svg" alt="Git" width="50" height="50">](https://git-scm.com/) | [<img src="icons/github-actions/githubactions-original.svg" alt="Github-actions" width="50" height="50">](https://docs.github.com/en/actions) |
 
+</td>
+<td style="width:25%; vertical-align:top; padding:10px;">
 
 ### Databases
-  
-| SQLite                                                                                                               |
-|----------------------------------------------------------------------------------------------------------------------|
+|                                                        SQLite                                                        |
+|:--------------------------------------------------------------------------------------------------------------------:|
 | [<img src="icons/sqlite/sqlite-original-wordmark.svg" alt="sqlite" width="50" height="50">](https://www.sqlite.org/) |
+
+</td>
+<td style="width:25%; vertical-align:top; padding:10px;">
 
 ### Configuration
 
-| YAML                                                                                            |
-|-------------------------------------------------------------------------------------------------|
+|                                              YAML                                               |
+|:-----------------------------------------------------------------------------------------------:|
 | [<img src="icons/yaml/yaml-original.svg" alt="YAML" width="50" height="50">](https://yaml.org/) |
 
-  
-
-
-</div>
+</td>
+</tr>
+</table>
 
 ## <img src="icons/algoritms/thealgorithms.svg" alt="Algoritms" width="40" height="40"> Algorithms [LeetCode](https://leetcode.com/u/waltafunk/)
 
@@ -101,9 +107,11 @@ If you are seeking a tester who can bring automation and enhance trust in your p
 
 ## My Stats
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ZhikharevAl&show_icons=true&theme=synthwave)
+
 [![GitHub Streak](https://streak-stats.demolab.com/?user=ZhikharevAl&theme=shadow-purple)](https://git.io/streak-stats)
 
-## ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ZhikharevAl&layout=compact&bg_color=000000&text_color=FFFFFF)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ZhikharevAl&layout=compact&bg_color=000000&text_color=FFFFFF)
 
 ![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=ZhikharevAL&style=flat&color=red)
 
