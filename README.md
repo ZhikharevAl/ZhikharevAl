@@ -42,7 +42,6 @@ If you are seeking a tester who can bring automation and enhance trust in your p
 |--------------------------------------------------------------------------------------------------------------------|:------------------------------------------------------------------------------------------------------------------------------:|-------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------|
 | [<img src="icons/allure/Allure_Report.svg" alt="Allure-Report" width="50" height="50">](https://allurereport.org/) | [<img src="icons/playwright/playwright-original.svg" alt="Playwright" width="50" height="50">](https://playwright.dev/python/) | [<img src="icons/pytest/pytest-original-wordmark.svg" alt="Pytest" width="50" height="50">](https://docs.pytest.org/en/stable/index.html) | [<img src="icons/selenium/selenium-original.svg" alt="Selenium" width="50" height="50">](https://www.selenium.dev/) | [<img src="icons/JUnit5/junit-original-wordmark.svg" alt="JUnit5" width="50" height="50">](https://junit.org/junit5/docs/current/user-guide/) |
 
-
 ### Development Tools
 
 | Codecov                                                                                                       | Docker                                                                                                               |                                                   Jupyter Notebook                                                   | Github                                                                                                                   | Linux                                                                                                | Markdown                                                                                                                              | Postman                                                                                                                  |
@@ -63,6 +62,7 @@ If you are seeking a tester who can bring automation and enhance trust in your p
 <td style="width:25%; vertical-align:top; padding:10px;">
 
 ### Databases
+
 |                                                        SQLite                                                        |
 |:--------------------------------------------------------------------------------------------------------------------:|
 | [<img src="icons/sqlite/sqlite-original-wordmark.svg" alt="sqlite" width="50" height="50">](https://www.sqlite.org/) |
@@ -80,31 +80,6 @@ If you are seeking a tester who can bring automation and enhance trust in your p
 </tr>
 </table>
 
-## <img src="icons/algoritms/thealgorithms.svg" alt="Algoritms" width="40" height="40"> Algorithms [LeetCode](https://leetcode.com/u/waltafunk/)
-
-<!-- ![](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
-![](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white)
-![Selene](https://img.shields.io/badge/Selene-%43B02A?style=for-the-badge&logo=selene&logoColor=white)
-![Jupyter Notebook](https://img.shields.io/badge/Playwright-%23FA0F00.svg?style=for-the-badge&logo=playwright&logoColor=green)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![Header](https://img.shields.io/badge/DevTools-090909?style=for-the-badge&logo=googlechrome&logoColor=2674f2)
-![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
-![Golang](https://img.shields.io/badge/golang-%23000000.svg?style=for-the-badge&logo=golang&logoColor=blue) -->
-<!--![](https://img.shields.io/badge/gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white) -->
-<!--![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white) -->
-
-<!-- ## 💻 IDE:
-
-![](https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=red)
-![](https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=green)
-![](https://img.shields.io/badge/Visual%20Studio%20Code-000000.svg?style=for-the-badge&logo=visual-studio-code&logoColor=blue)
-![](https://img.shields.io/badge/Golang-000000.svg?style=for-the-badge&logo=golang&logoColor=blue) -->
-
 ## My Stats
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ZhikharevAl&show_icons=true&theme=synthwave)
@@ -113,8 +88,13 @@ If you are seeking a tester who can bring automation and enhance trust in your p
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ZhikharevAl&layout=compact&bg_color=000000&text_color=FFFFFF)
 
-![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=ZhikharevAL&style=flat&color=red)
-
 <p align="center">
  <img width="1000" src="assets/github-snake.svg" alt="snake"/>
 </p>
+
+- Account on Codewars \
+[![codewars](https://www.codewars.com/users/ZhikharevAl/badges/large)](https://www.codewars.com/users/ZhikharevAl)
+- Account on Leetcode \
+![Leetcode Stats](https://leetcard.jacoblin.cool/waltafunk)
+
+![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=ZhikharevAL&style=flat&color=red)
