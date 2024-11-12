@@ -13,16 +13,9 @@ Tester focused on test automation and continuous improvement of product quality.
 
 If you are seeking a tester who can bring automation and enhance trust in your project, feel free to contact me!
 
-[//]: # (## My CV:)
-
-[//]: # ([Link to my CV]&#40;https://resume.io/r/WC2jMOmYm&#41;)
-
-[//]: # ()
-[//]: # ([PDF]&#40;./assets/cv.pdf&#41;)
+## [Portfolio](https://zhikhareval.github.io/)
 
 ## Languages and Tools
-
-<div>
 
 ### Programming Language
 
