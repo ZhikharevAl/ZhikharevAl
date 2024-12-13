@@ -13,7 +13,10 @@ Tester focused on test automation and continuous improvement of product quality.
 
 If you are seeking a tester who can bring automation and enhance trust in your project, feel free to contact me!
 
-## [Portfolio](https://zhikhareval.github.io/)
+## 🌟 Моё портфолио | 🌟 My Portfolio  
+
+[Нажмите сюда, чтобы посмотреть мои проекты!](https://zhikhareval.github.io/)  
+[Click here to view my projects!](https://zhikhareval.github.io/)
 
 ## Languages and Tools
 
