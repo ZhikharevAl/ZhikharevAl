@@ -14,8 +14,6 @@
 <a href="https://zhikhareval.github.io/">Нажмите сюда, чтобы посмотреть мои проекты!</a><br/>
 <a href="https://zhikhareval.github.io/">Click here to view my projects!</a>
 
-## My Stats
-
 <!-- Основная карточка -->
 <img src="https://github-readme-stats.vercel.app/api?username=ZhikharevAl&show_icons=true&theme=synthwave" alt="GitHub stats" />
 
