@@ -29,6 +29,8 @@
 <br/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZhikharevAl&layout=compact&bg_color=000000&text_color=FFFFFF" alt="Top Languages" />
 
+</div>
+
 <!-- Аккаунты -->
 <br/><br/>
 <p>
@@ -46,5 +48,3 @@
 <p>
   <img src="https://leetcard.jacoblin.cool/waltafunk" alt="LeetCode Stats"/>
 </p>
-
-</div>
