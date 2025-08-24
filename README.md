@@ -19,17 +19,19 @@
 <!-- Основная карточка -->
 <img src="https://github-readme-stats.vercel.app/api?username=ZhikharevAl&show_icons=true&theme=synthwave" alt="GitHub stats" />
 
+<!-- spacer -->
+<div style="height: 16px;"></div>
+
 <!-- Streak -->
-<br/>
 <a href="https://git.io/streak-stats">
   <img src="https://streak-stats.demolab.com/?user=ZhikharevAl&theme=shadow-purple" alt="GitHub Streak"/>
 </a>
 
-<!-- Top Langs -->
-<br/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZhikharevAl&layout=compact&bg_color=000000&text_color=FFFFFF" alt="Top Languages" />
+<!-- spacer -->
+<div style="height: 16px;"></div>
 
-</div>
+<!-- Top Langs -->
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZhikharevAl&layout=compact&bg_color=000000&text_color=FFFFFF" alt="Top Languages" />
 
 <!-- Аккаунты -->
 <br/><br/>
