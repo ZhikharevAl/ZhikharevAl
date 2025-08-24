@@ -15,13 +15,13 @@
 <!-- Streak -->
 <br/>
 <a href="https://git.io/streak-stats">
-  <img src="https://streak-stats.demolab.com/?user=ZhikharevAl&theme=shadow-purple" alt="GitHub Streak"/>
+  <img src="https://streak-stats.demolab.com/?user=ZhikharevAl&theme=shadow-purple" alt="GitHub Streak" width="400" height="200"/>
 </a>
 
 ---
 <!-- Top Langs -->
 <br/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZhikharevAl&layout=compact&bg_color=000000&text_color=FFFFFF" alt="Top Languages" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZhikharevAl&layout=compact&bg_color=000000&text_color=FFFFFF" alt="Top Languages" width="300" height="200"/>
 
 </div>
 
@@ -40,5 +40,5 @@
 
 <!-- LeetCode -->
 <p>
-  <img src="https://leetcard.jacoblin.cool/waltafunk" alt="LeetCode Stats"/>
+  <img src="https://leetcard.jacoblin.cool/waltafunk" alt="LeetCode Stats" width="400" height="200"/>
 </p>
