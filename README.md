@@ -13,10 +13,7 @@
 
 ---
 <!-- Streak -->
-<br/>
-<a href="https://git.io/streak-stats">
-  <img src="https://streak-stats.demolab.com/?user=ZhikharevAl&theme=shadow-purple" alt="GitHub Streak" width="400" height="200"/>
-</a>
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ZhikharevAl&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 <!-- Top Langs -->
