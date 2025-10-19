@@ -5,7 +5,6 @@
 
 <div align="center">
 
-### Old-school testing, modern automation
 
 > "Тестирование - проблема в значительной степени экономическая." - Гленфорд Майерс
 
