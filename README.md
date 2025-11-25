@@ -8,7 +8,7 @@
 
 > "Тестирование - проблема в значительной степени экономическая." - Гленфорд Майерс
 
-<h2 align="left" style="border: 0; margin: 0 0 8px 0; padding: 0;">🌟 Моё портфолио | 🌟 My Portfolio</h2> <p align="left" style="margin: 0;"> <a href="https://zhikhareval.github.io/">Нажмите сюда, чтобы посмотреть мои проекты!</a><br/> <a href="https://zhikhareval.github.io/">Click here to view my projects!</a> </p>
+<!-- <h2 align="left" style="border: 0; margin: 0 0 8px 0; padding: 0;">🌟 Моё портфолио | 🌟 My Portfolio</h2> <p align="left" style="margin: 0;"> <a href="https://zhikhareval.github.io/">Нажмите сюда, чтобы посмотреть мои проекты!</a><br/> <a href="https://zhikhareval.github.io/">Click here to view my projects!</a> </p> -->
 
 ---
 <!-- Streak -->
