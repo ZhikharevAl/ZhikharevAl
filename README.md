@@ -11,15 +11,10 @@
 <!-- <h2 align="left" style="border: 0; margin: 0 0 8px 0; padding: 0;">🌟 Моё портфолио | 🌟 My Portfolio</h2> <p align="left" style="margin: 0;"> <a href="https://zhikhareval.github.io/">Нажмите сюда, чтобы посмотреть мои проекты!</a><br/> <a href="https://zhikhareval.github.io/">Click here to view my projects!</a> </p> -->
 
 ---
-<!-- Streak -->
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ZhikharevAl&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ZhikharevAl&theme=tokyonight)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ZhikharevAl&theme=tokyonight)
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ZhikharevAl&theme=tokyonight)
 
----
-<!-- Top Langs -->
-<br/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZhikharevAl&layout=compact&bg_color=000000&text_color=FFFFFF" alt="Top Languages" width="300" height="200"/>
-
-</div>
 
 <!-- Аккаунты -->
 <br/><br/>
